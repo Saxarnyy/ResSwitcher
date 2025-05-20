@@ -1,4 +1,4 @@
-ResSwitcher v.0.2
+ResSwitcher
 
 Required Python(NO WAY), win32api and win32con 
 
