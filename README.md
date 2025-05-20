@@ -1,6 +1,6 @@
 ResSwitcher v.0.1
 
-Required win32api and win32con
+Required Python(NO WAY), win32api and win32con 
 
 Before starting you should have your custom resolution in NVIDIA or AMD software
 
