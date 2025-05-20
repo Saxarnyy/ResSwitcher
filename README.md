@@ -1,4 +1,5 @@
 ResSwitcher v.0.1
+
 before starting you should have your custom resolution in NVIDIA or AMD software
 
 How to add custom resolution for [NVIDIA](https://www.youtube.com/watch?v=rjp0a9RddzY)
